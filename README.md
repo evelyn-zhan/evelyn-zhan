@@ -25,8 +25,8 @@ These are the technologies that I am familiar with, and have ever used them befo
 
 **Backend Development**
 
-[![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=Node.js)](https://github.com/evelyn-zhan?tab=repositories)
-[![HapiJS](https://img.shields.io/badge/-HapiJS-black?style=for-the-badge&logo=Hapi.js)](https://github.com/evelyn-zhan?tab=repositories)
+[![NodeJS](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js)](https://github.com/evelyn-zhan?tab=repositories)
+[![HapiJS](https://img.shields.io/badge/-Hapi.js-black?style=for-the-badge&logo=Hapi.js)](https://github.com/evelyn-zhan?tab=repositories)
 
 **Database**
 
