@@ -44,8 +44,8 @@ const education = [
         name: "Universitas Mikroskil",
         info: "Bachelor's Degree • Computer Science",
         date: "Sep 2023 - Now",
-        grade: "GPA: 4.00 / 4.00",
-        desc: "Achieved the Top 1% Students Award in the First Semester and received a half-year scholarship.",
+        grade: "Current GPA: 4.00 / 4.00",
+        // desc: "Achieved the Top 1% Students Award in the First Semester and received a half-year scholarship.",
     },
     {
         id: 2,
