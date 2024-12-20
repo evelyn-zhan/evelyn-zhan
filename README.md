@@ -22,12 +22,13 @@ These are the technologies that I am familiar with, and have ever used them befo
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black.svg?style=for-the-badge&logo=tailwind-css)](https://github.com/evelyn-zhan?tab=repositories)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)](https://github.com/evelyn-zhan?tab=repositories&language=javascript)
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)](https://github.com/evelyn-zhan?tab=repositories)
+[![Vue](https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=vue.js)](https://github.com/evelyn-zhan?tab=repositories&language=vue)
 
 **Backend Development**
 
 [![NodeJS](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js)](https://github.com/evelyn-zhan?tab=repositories)
-[![ExpressJS](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=Hapi.js)](https://github.com/evelyn-zhan?tab=repositories)
-[![HapiJS](https://img.shields.io/badge/-Hapi.js-black?style=for-the-badge&logo=Hapi.js)](https://github.com/evelyn-zhan?tab=repositories)
+[![ExpressJS](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)](https://github.com/evelyn-zhan?tab=repositories)
+[![HapiJS](https://img.shields.io/badge/-Hapi.js-black?style=for-the-badge&logo=hapi)](https://github.com/evelyn-zhan?tab=repositories)
 
 **Database**
 
