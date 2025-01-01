@@ -6,6 +6,30 @@
 - 🌱 I am currently learning Node JS and Express JS for Backend Development.
 - 📬 Feel free to reach me out!
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=evelyn-zhan&show_icons=true&theme=vue-dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=evelyn-zhan&show_icons=true&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=evelyn-zhan&layout=compact&theme=vue-dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=evelyn-zhan&layout=compact&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 ## ⚡ Technologies
 
 These are the technologies that I am familiar with, and have ever used them before.
