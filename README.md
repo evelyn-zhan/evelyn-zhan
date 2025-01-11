@@ -45,7 +45,7 @@ These are the technologies that I am familiar with, and have ever used them befo
 [![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://github.com/evelyn-zhan?tab=repositories&language=css)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black.svg?style=for-the-badge&logo=tailwind-css)](https://github.com/evelyn-zhan?tab=repositories)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)](https://github.com/evelyn-zhan?tab=repositories&language=javascript)
-[![JavaScript](https://img.shields.io/badge/-Embedded.js-black?style=for-the-badge&logo=ejs)](https://github.com/evelyn-zhan?tab=repositories&language=ejs)
+[![EmbeddedJavaScript](https://img.shields.io/badge/-ejs-black?style=for-the-badge&logo=ejs)](https://github.com/evelyn-zhan?tab=repositories&language=ejs)
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)](https://github.com/evelyn-zhan?tab=repositories)
 [![Vue](https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=vue.js)](https://github.com/evelyn-zhan?tab=repositories&language=vue)
 
