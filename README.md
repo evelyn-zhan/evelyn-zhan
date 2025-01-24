@@ -3,7 +3,7 @@
 💻 I am a Computer Science undergraduate student, and currently on my second year.
 
 - 👀 I have great interest in Web Development.
-- 🌱 I am currently learning Node JS and Express JS for Backend Development.
+- 🌱 I am currently learning MERN Stack.
 - 📬 Feel free to reach me out!
 
 <picture>
