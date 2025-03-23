@@ -3,7 +3,7 @@
 💻 I am a Computer Science undergraduate student, and currently on my second year.
 
 - 👀 I have great interest in Web Development.
-- 🌱 I am currently learning MERN Stack.
+- 🌱 I am currently learning MERN Stack for Web Development, and Flutter framework for Frontend Mobile Development.
 - 📬 Feel free to reach me out!
 
 <picture>
