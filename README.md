@@ -54,6 +54,11 @@ These are the technologies that I am familiar with, and have ever used them befo
 [![NodeJS](https://img.shields.io/badge/-Node-black?style=for-the-badge&logo=Node.js)](https://github.com/evelyn-zhan?tab=repositories)
 [![ExpressJS](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)](https://github.com/evelyn-zhan?tab=repositories)
 
+**Mobile Development**
+
+[![Dart](https://img.shields.io/badge/-dart-black?style=for-the-badge&logo=dart)](https://github.com/evelyn-zhan?tab=repositories&language=dart)
+[![Flutter](https://img.shields.io/badge/-flutter-black?style=for-the-badge&logo=flutter)](https://github.com/evelyn-zhan?tab=repositories&language=dart)
+
 **Database**
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)](https://github.com/evelyn-zhan?tab=repositories)
