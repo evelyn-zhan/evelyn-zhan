@@ -56,7 +56,7 @@ These are the technologies that I am familiar with, and have ever used them befo
 
 **Mobile Development**
 
-[![Dart](https://img.shields.io/badge/-dart-black?style=for-the-badge&logo=dart)](https://github.com/evelyn-zhan?tab=repositories&language=dart)
+[![Dart](https://img.shields.io/badge/-dart-black?style=for-the-badge&logo=dart&logoColor=%231572B6)](https://github.com/evelyn-zhan?tab=repositories&language=dart)
 [![Flutter](https://img.shields.io/badge/-flutter-black?style=for-the-badge&logo=flutter)](https://github.com/evelyn-zhan?tab=repositories&language=dart)
 
 **Database**
