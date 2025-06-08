@@ -40,9 +40,9 @@ These are the technologies that I am familiar with, and have ever used them befo
 
 **Frontend Development**
 
-[![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)](https://github.com/evelyn-zhan?tab=repositories&language=html)
-[![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://github.com/evelyn-zhan?tab=repositories&language=css)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black.svg?style=for-the-badge&logo=tailwind-css)](https://github.com/evelyn-zhan?tab=repositories)
+[![HTML5](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)](https://github.com/evelyn-zhan?tab=repositories&language=html)
+[![CSS3](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css&logoColor=%231572B6)](https://github.com/evelyn-zhan?tab=repositories&language=css)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-black.svg?style=for-the-badge&logo=tailwind-css)](https://github.com/evelyn-zhan?tab=repositories)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)](https://github.com/evelyn-zhan?tab=repositories&language=javascript)
 [![EmbeddedJavaScript](https://img.shields.io/badge/-ejs-black?style=for-the-badge&logo=ejs)](https://github.com/evelyn-zhan?tab=repositories&language=ejs)
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)](https://github.com/evelyn-zhan?tab=repositories)
