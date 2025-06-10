@@ -31,7 +31,7 @@
 
 ## ⚡ Technologies
 
-These are the technologies that I am familiar with, and have ever used them before.
+These are the technologies that I am familiar with, and have ever used before.
 
 **Programming Languages**
 
