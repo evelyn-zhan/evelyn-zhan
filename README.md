@@ -6,9 +6,10 @@
 - 🌱 I use MERN (MongoDB, ExpressJS, ReactJS, and NodeJS) as my main tech stack in most of my projects.
 - 📬 Feel free to reach me out! [LinkedIn](https://www.linkedin.com/in/evelyn-zhan)
 
+<!--
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=evelyn-zhan&show_icons=true&theme=vue-dark"
+    srcset="https://github-readme-stats-evelyn-zhan.vercel.app/api?username=evelyn-zhan&show_icons=true&theme=vue-dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -29,6 +30,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+-->
 
 ## ⚡ Technologies
 
@@ -37,7 +39,7 @@ These are the technologies that I am familiar with and have ever used before.
 **Programming Languages**
 
 [![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)](https://github.com/evelyn-zhan?tab=repositories&language=c++)
-[![Python](https://img.shields.io/badge/python-black?style=flat&logo=python)](https://github.com/evelyn-zhan?tab=repositories&language=python)
+[![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)](https://github.com/evelyn-zhan?tab=repositories&language=python)
 
 **Frontend Web Development**
 
@@ -50,19 +52,21 @@ These are the technologies that I am familiar with and have ever used before.
 
 **Backend Web Development**
 
-[![NodeJS](https://img.shields.io/badge/-Node-black?style=flat&logo=Node.js)](https://github.com/evelyn-zhan?tab=repositories)
+[![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=Node.js)](https://github.com/evelyn-zhan?tab=repositories)
 [![ExpressJS](https://img.shields.io/badge/-Express-black?style=flat&logo=express)](https://github.com/evelyn-zhan?tab=repositories)
 
 **Mobile Development**
 
-[![Dart](https://img.shields.io/badge/-dart-black?style=flat&logo=dart&logoColor=%231572B6)](https://github.com/evelyn-zhan?tab=repositories&language=dart)
-[![Flutter](https://img.shields.io/badge/-flutter-black?style=flat&logo=flutter)](https://github.com/evelyn-zhan?tab=repositories&language=dart)
+[![Dart](https://img.shields.io/badge/-Dart-black?style=flat&logo=dart&logoColor=%231572B6)](https://github.com/evelyn-zhan?tab=repositories&language=dart)
+[![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter)](https://github.com/evelyn-zhan?tab=repositories&language=dart)
 
 **Database**
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://github.com/evelyn-zhan?tab=repositories)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)](https://github.com/evelyn-zhan?tab=repositories)
 
-##
+<!-- ## GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=evelyn-zhan&count_private=true&show_icons=true&include_all_commits=true&show=reviews&theme=vue-dark)](https://github.com/evelyn-zhan?tab=repositories) -->
 
 2025 &copy; Evelyn.
