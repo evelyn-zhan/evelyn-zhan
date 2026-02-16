@@ -69,4 +69,4 @@ These are the technologies that I am familiar with and have ever used before.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=evelyn-zhan&count_private=true&show_icons=true&include_all_commits=true&show=reviews&theme=vue-dark)](https://github.com/evelyn-zhan?tab=repositories) -->
 
-2025 &copy; Evelyn.
+&copy; 2024-2026 Evelyn.
