@@ -6,32 +6,6 @@
 - 🌱 I use MERN (MongoDB, ExpressJS, ReactJS, and NodeJS) as my main tech stack in most of my projects.
 - 📬 Feel free to reach me out! [LinkedIn](https://www.linkedin.com/in/evelyn-zhan)
 
-<!--
-<picture>
-  <source
-    srcset="https://github-readme-stats-evelyn-zhan.vercel.app/api?username=evelyn-zhan&show_icons=true&theme=vue-dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=evelyn-zhan&show_icons=true&theme=vue"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=evelyn-zhan&layout=compact&theme=vue-dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=evelyn-zhan&layout=compact&theme=vue"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
--->
-
 ## ⚡ Technologies
 
 These are the technologies that I am familiar with and have ever used before.
@@ -65,8 +39,35 @@ These are the technologies that I am familiar with and have ever used before.
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://github.com/evelyn-zhan?tab=repositories)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)](https://github.com/evelyn-zhan?tab=repositories)
 
-<!-- ## GitHub Stats
+## 📊 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=evelyn-zhan&count_private=true&show_icons=true&include_all_commits=true&show=reviews&theme=vue-dark)](https://github.com/evelyn-zhan?tab=repositories) -->
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=evelyn-zhan&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=evelyn-zhan&layout=compact&theme=github_dark)
+
+<!--
+<picture>
+  <source
+    srcset="https://github-readme-stats-evelyn-zhan.vercel.app/api?username=evelyn-zhan&show_icons=true&theme=vue-dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=evelyn-zhan&show_icons=true&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=evelyn-zhan&layout=compact&theme=vue-dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=evelyn-zhan&layout=compact&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+-->
 
 &copy; 2024-2026 Evelyn.
