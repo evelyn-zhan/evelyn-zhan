@@ -24,7 +24,7 @@ These are the technologies that I am familiar with and have ever used before.
 [![EmbeddedJavaScript](https://img.shields.io/badge/-ejs-black?style=flat&logo=ejs)](https://github.com/evelyn-zhan?tab=repositories&language=ejs)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://github.com/evelyn-zhan?tab=repositories)
 
-**Backend Web Development**
+**Backend Development**
 
 [![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=Node.js)](https://github.com/evelyn-zhan?tab=repositories)
 [![ExpressJS](https://img.shields.io/badge/-Express-black?style=flat&logo=express)](https://github.com/evelyn-zhan?tab=repositories)
