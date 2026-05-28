@@ -3,7 +3,8 @@
 💻 I am a third-year Computer Science undergraduate student.
 
 - 👀 I have great interest in Web Development.
-- 🌱 I use MERN (MongoDB, ExpressJS, ReactJS, and NodeJS) as my main tech stack in most of my projects.
+- 🌱 Currently learning AI Engineering.
+- 🧑‍💻 I use MERN (MongoDB, ExpressJS, ReactJS, and NodeJS) as my main tech stack in most of my projects.
 - 📬 Feel free to reach me out! [LinkedIn](https://www.linkedin.com/in/evelyn-zhan)
 
 ## ⚡ Technologies
