@@ -22,7 +22,6 @@ These are the technologies that I am familiar with and have ever used before.
 [![CSS3](https://img.shields.io/badge/-CSS-black?style=flat&logo=css&logoColor=%231572B6)](https://github.com/evelyn-zhan?tab=repositories&language=css)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black.svg?style=flat&logo=tailwind-css)](https://github.com/evelyn-zhan?tab=repositories)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://github.com/evelyn-zhan?tab=repositories&language=javascript)
-[![EmbeddedJavaScript](https://img.shields.io/badge/-ejs-black?style=flat&logo=ejs)](https://github.com/evelyn-zhan?tab=repositories&language=ejs)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://github.com/evelyn-zhan?tab=repositories)
 
 **Backend Development**
