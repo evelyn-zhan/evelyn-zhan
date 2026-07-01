@@ -16,7 +16,7 @@ These are the technologies that I am familiar with and have ever used before.
 [![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)](https://github.com/evelyn-zhan?tab=repositories&language=c++)
 [![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)](https://github.com/evelyn-zhan?tab=repositories&language=python)
 
-**Frontend Web Development**
+**Web Development**
 
 [![HTML5](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)](https://github.com/evelyn-zhan?tab=repositories&language=html)
 [![CSS3](https://img.shields.io/badge/-CSS-black?style=flat&logo=css&logoColor=%231572B6)](https://github.com/evelyn-zhan?tab=repositories&language=css)
